@@ -1,0 +1,21 @@
+Sure, here are numerical examples for each of the statistical experiments mentioned:
+
+1. **Design of Experiments**: Suppose you want to test the effect of different diets on weight loss. You could design an experiment where you randomly assign 30 individuals to one of three diets (low carb, low fat, and Mediterranean) and measure their weight loss after 12 weeks.
+
+2. **Data Collection**: In a clinical trial, you might collect data on patient characteristics (age, sex, disease stage), treatment received (drug A or drug B), and outcome (improved, no change, worsened).
+
+3. **Analysis of Variance (ANOVA)**: Suppose you have test scores from students in three different classrooms and you want to see if the mean score differs significantly among the classrooms.
+
+4. **T-Test Analysis**: If you have test scores from students before and after a teaching intervention, you could use a paired t-test to see if the mean score significantly improved.
+
+5. **Correlation Analysis**: If you have data on hours studied and exam scores for a group of students, you could calculate the correlation coefficient to see if there is a linear relationship between these two variables.
+
+6. **Regression Analysis**: Using the same data from the correlation analysis example, you could use regression analysis to predict a student's exam score based on the number of hours they studied.
+
+7. **Chi-Square Test**: If you have data on smoking status (smoker/non-smoker) and disease status (disease/no disease) for a group of individuals, you could use a chi-square test to see if smoking is associated with the disease.
+
+8. **Factor Analysis**: If you have data on multiple psychological traits for a group of individuals (e.g., anxiety, depression, aggression), you could use factor analysis to see if these traits can be grouped into underlying factors (e.g., negative affectivity).
+
+9. **Time Series Analysis**: If you have monthly sales data for a company over several years, you could use time series analysis to identify trends and seasonal patterns in the sales data.
+
+10. **Survival Analysis**: If you have data on time until death for a group of patients with a certain disease, along with data on various treatments they received, you could use survival analysis to estimate the effect of the treatments on survival time.

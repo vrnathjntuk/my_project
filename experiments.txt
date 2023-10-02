@@ -1,0 +1,30 @@
+Here are 10 laboratory experiments that can be conducted in the field of statistics:
+
+1. **Design of Experiments**: This experiment involves designing a study to test a specific hypothesis. It includes determining the experimental units, treatments, and sampling units¹.
+
+2. **Data Collection**: This experiment involves collecting data systematically through observation, measurement, and analysis. An example could be a clinical trial of a new drug².
+
+3. **Analysis of Variance (ANOVA)**: This experiment involves comparing the means of different groups to determine if they are significantly different from each other¹.
+
+4. **T-Test Analysis**: This experiment involves comparing the means of two groups to determine if there is a significant difference between them³.
+
+5. **Correlation Analysis**: This experiment involves determining the relationship between two variables.
+
+6. **Regression Analysis**: This experiment involves predicting the value of one variable based on the value of another variable.
+
+7. **Chi-Square Test**: This experiment involves determining if there is a significant association between two categorical variables.
+
+8. **Factor Analysis**: This experiment involves reducing a large number of variables into a smaller number of factors.
+
+9. **Time Series Analysis**: This experiment involves analyzing data collected over time to identify trends, cycles, and seasonal variations.
+
+10. **Survival Analysis**: This experiment involves analyzing the time until an event occurs, such as the failure of a machine or the death of a patient in a clinical trial.
+
+Please note that these are general categories of experiments and each category can include numerous specific experiments depending on the research question and data available.
+
+Source: Conversation with Bing, 2/10/2023
+(1) Chapter 4 Experimental Designs and Their Analysis - IIT Kanpur. https://home.iitk.ac.in/~shalab/anova/chapter4-anova-experimental-design-analysis.pdf.
+(2) Data Collection by Experiments | Statistics | JoVE. https://www.jove.com/science-education/12577/data-collection-by-experiments.
+(3) 5.7 Lab: Analyzing experimental data | Applied Causal ... - Bookdown. https://bookdown.org/paul/applied-causal-analysis/lab-analyzing-experimental-data.html.
+(4) CBSE Class 10 Science Practicals, Lab Manuals and Project Work - BYJU'S. https://byjus.com/cbse/cbse-class-10-science-practicals/.
+(5) Guidelines for the Design and Statistical Analysis of Experiments Using .... https://academic.oup.com/ilarjournal/article/43/4/244/981872.
